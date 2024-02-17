@@ -11,12 +11,12 @@ body{
 }
 .first{
     position: absolute;
-    right: 300px;
+    right: 100px;
     top: 50px;
 }
 .second{
     position:absolute;
-    left: 300px;
+    left: 200px;
     bottom: 300px;
 }
 h1{
